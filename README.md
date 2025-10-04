@@ -22,3 +22,7 @@ The original part is a metal threaded nut, overmolded with plastics (or hard rub
 I 3d printed this in PPA-CF, a material which claims to be stronger than metal when properly printed, and annealed.
 
 Manufacturer guidelines vary, but essentially heat-soak the chamber for 30 mins to get as high ambient chamber temp as possible, then print per manufacturers guidelines, then anneal (i.e on heatbed under a box at 100C) for 6-10 hours.
+
+## Why is the FreeCAD file enormous?
+
+The FreeCAD file contains a mesh of a 3d scan so you can toggle that on to check the dimensional accuracy, but it's real close.
