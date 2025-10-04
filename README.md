@@ -7,7 +7,7 @@ Fitment:
 - Trophy 900/1200 (up to VIN 29155)
 - Tiger 900 carburettor model.
 
-![example rendering](img/SCR-20251004-jryv-removebg-preview.png?raw=true)
+![example rendering](img/SCR-20251004-jryv-removebg-preview.png)
 
 ## How to use this repository.
 
